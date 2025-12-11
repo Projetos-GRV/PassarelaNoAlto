@@ -1,4 +1,4 @@
-# Unity VR Development Pathway
+# Unity VR Pathway
 
 - [Unity VR Development Pathway](#unity-vr-development-pathway)
   - [Overview](#overview)
